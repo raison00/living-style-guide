@@ -21,7 +21,9 @@ Purpose and common info about it all: articles, tutorials and various resources 
 ### Articles
 *  [ Test your Flutter widgets using golden files ](https://medium.com/swlh/test-your-flutter-widgets-using-golden-files-b533ac0de469): Testing how widgets get rendered with different screen sizes and enabling notifications when the look of a widget changes.
 *  [ Flutter: The Advanced Layout Rule Even Beginners Must Know ](https://medium.com/flutter-community/flutter-the-advanced-layout-rule-even-beginners-must-know-edc9516d1a2):header
-*  [ Flutter — Row/Column Cheat Sheet ] (https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041):Flutter 's use of Row & Column for Layouts
+
+*  [ Flutter — Row/Column Cheat Sheet ](https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041):Flutter 's use of Row & Column for Layouts
+
 *  [ Page Transitions Using ThemeData in Flutter ](https://medium.com/flutter-community/page-transitions-using-themedata-in-flutter-c24afadb0b5d): How to apply page transitions to the entire app.
 * [Flutter Widget Inspector](https://medium.com/pslove/flutter-widget-inspector-aa7c828854d6): How can I visualize a widget’s place in its complete widget tree?
 
@@ -33,10 +35,17 @@ Purpose and common info about it all: articles, tutorials and various resources 
 ### Github
 
 ### StackOverflow
+
+* [How to use Flutters Widget Inspector in Visual Studio Code?](https://stackoverflow.com/questions/53381536/how-to-use-flutters-widget-inspector-in-visual-studio-code)  Functionality of Dart's DevTools in the DevTools
+
+### CodePens
+*  [ Flutter Box Constraints](https://codepen.io/felicitous/pen/yLYXRjM):Box Constraints Visualization
+
 *  [ How to use Flutter's Widget Inspector in Visual Studio Code? ](https://stackoverflow.com/questions/53381536/how-to-use-flutters-widget-inspector-in-visual-studio-code) Functionality of Dart's DevTools in the DevTools
 
 ### CodePens
 *  [ Flutter Box Constraints ](https://codepen.io/felicitous/pen/yLYXRjM):Box Constraints Visualization
+
 
 ### Documentation
 * [Using the Flutter inspector](https://flutter.dev/docs/development/tools/devtools/inspector): The Flutter widget inspector is a powerful tool for visualizing and exploring Flutter widget trees.
@@ -47,6 +56,7 @@ Purpose and common info about it all: articles, tutorials and various resources 
 * [Flutter RenderOverflow Solution using Flexible Widget](https://gist.github.com/raison00/679ad092bdfd5979e766507c1dc7a0e9): Using Flexible Widget to solve render flex overflow errors
 * [Flutter RenderOverflow Solution using Expanded Widget](https://gist.github.com/raison00/27f6302019514b0c5f8150f9fdfa6a88): Using Expanded Widget to solve render flex overflow errors
 * [Flutter Box Constraints](https://gist.github.com/raison00/311b04d2898178f14766675673dfa16a): Box Constraints Visualization; no text clipping issues/errors but can have a render overflow error in the column
+
 
 
 

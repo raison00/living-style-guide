@@ -33,10 +33,10 @@ Purpose and common info about it all: articles, tutorials and various resources 
 ### Github
 
 ### StackOverflow
-*  [ How to use Flutter's Widget Inspector in Visual Studio Code? ](https://stackoverflow.com/questions/53381536/how-to-use-flutters-widget-inspector-in-visual-studio-code: Functionality of Dart's DevTools in the DevTools
+*  [ How to use Flutter's Widget Inspector in Visual Studio Code?](https://stackoverflow.com/questions/53381536/how-to-use-flutters-widget-inspector-in-visual-studio-code: Functionality of Dart's DevTools in the DevTools
 
 ### CodePens
-*  [ Flutter Box Constraints ] (https://codepen.io/felicitous/pen/yLYXRjM):Box Constraints Visualization
+*  [ Flutter Box Constraints](https://codepen.io/felicitous/pen/yLYXRjM):Box Constraints Visualization
 
 ### Documentation
 * [Using the Flutter inspector](https://flutter.dev/docs/development/tools/devtools/inspector): The Flutter widget inspector is a powerful tool for visualizing and exploring Flutter widget trees.

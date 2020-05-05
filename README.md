@@ -3,12 +3,13 @@
 #### The Flutter DevTools Living Style Guide provides a unified visual experience,  establishes consistent UX for features, and maintains the expected look and feel of the complete suite of tools.  It is the single source of truth for teams (product, ux, engineering) to refer to for UI changes, for iterations, and when developing new features.
 
 
-##### Flutter Layout:  Understanding, Using, and Resolving Text Overflow Issues using Flutter's Dart DevTools
+
 
 >  Understanding Flutter's Layout Paradim 
 Purpose and common info about it all: articles, tutorials and various resources devoted to common layout issues.
 
 # Positions are set by parents.
+##### Flutter Layout:  Understanding and Solving Text Overflow Issues using Flutter's Dart DevTools 
 > The Flutter layout paradim is very different from HTML layout paradim: so it's best to breakdown how layout works within the Flutter framework.
 
 
@@ -32,8 +33,6 @@ Purpose and common info about it all: articles, tutorials and various resources 
 *  [ Flutter Tutorial for Beginners #4 - Creating a Flutter App ](https://www.youtube.com/watch?v=TSIhiZ5jRB0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=5&t=0s): The Net Ninja's Flutter Tutorials
 *  [ Flutter - Inspecting the Widget Tree](https://www.youtube.com/watch?v=T2fgPSWvoZo): Using the inspector to find a widget tree and render tree
 
-### Github
-
 ### StackOverflow
 
 * [How to use Flutters Widget Inspector in Visual Studio Code?](https://stackoverflow.com/questions/53381536/how-to-use-flutters-widget-inspector-in-visual-studio-code)  Functionality of Dart's DevTools in the DevTools
@@ -42,10 +41,6 @@ Purpose and common info about it all: articles, tutorials and various resources 
 *  [ Flutter Box Constraints](https://codepen.io/felicitous/pen/yLYXRjM):Box Constraints Visualization
 
 *  [ How to use Flutter's Widget Inspector in Visual Studio Code? ](https://stackoverflow.com/questions/53381536/how-to-use-flutters-widget-inspector-in-visual-studio-code) Functionality of Dart's DevTools in the DevTools
-
-### CodePens
-*  [ Flutter Box Constraints ](https://codepen.io/felicitous/pen/yLYXRjM):Box Constraints Visualization
-
 
 ### Documentation
 * [Using the Flutter inspector](https://flutter.dev/docs/development/tools/devtools/inspector): The Flutter widget inspector is a powerful tool for visualizing and exploring Flutter widget trees.
@@ -57,7 +52,7 @@ Purpose and common info about it all: articles, tutorials and various resources 
 * [Flutter RenderOverflow Solution using Expanded Widget](https://gist.github.com/raison00/27f6302019514b0c5f8150f9fdfa6a88): Using Expanded Widget to solve render flex overflow errors
 * [Flutter Box Constraints](https://gist.github.com/raison00/311b04d2898178f14766675673dfa16a): Box Constraints Visualization; no text clipping issues/errors but can have a render overflow error in the column
 
-
+### Github
 
 
 
